@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;0,600;0,700;0,900;1,500;1,800&display=swap');
+body{
+    font-size:1.1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style:solid;
+    border-color:rgb(241,201,126);
+}
+.head{
+    font-size:2rem;
+    text-align:center;
+    font-family:monospace;
+    width:100%;
+    height:4.8rem;
+    background-color:rgb(155, 240, 20);
+    margin-top:-2.7rem;
+    color:white;
+}
+.head span{
+    margin-left:-1.5rem;
+    color:orange;
+}
+.head h1{
+    margin-left:-15rem;
+    background-image:url(tlgod.jpg);
+    background-repeat:repeat;
+    background-position:right;
+}
+.head h3{
+    text-align:right;
+    margin-top:-6.7rem;
+    height:4.8rem;
+    color:rgb(187, 189, 196);
+}
+.header{
+    color:rgb(40, 42, 38);
+    font-weight:600;
+    font-size:1.2rem;
+    text-indent:15rem;
+    margin-top:3rem;
+    margin-bottom:3rem;
+}
+.intro{
+    width:100%;
+    height:5rem;
+    margin-top:1rem;
+    background-color:rgb(31, 176, 176);
+}
+.intro .navbar{
+    text-align:center;
+    width:90%;
+}
+
+.into .navbar ul h4 a{
+    color:rgb(100, 164, 221);
+    text-decoration:antiquewhite;
+    border-style:dotted;
+    border-color:rgb(44, 58, 53);
+    font-size:2rem;
+    margin-top:1.5rem;
+}
+.home p{
+    text-indent:5rem;
+    margin-top:3.5rem;
+}
+.home p span{
+    color:rgb(28, 77, 61);
+}
+.experience h1{
+    font-weight:600;
+    font-size:1.8rem;
+    border-bottom:.15rem solid rgb(155, 240, 20)
+    margin-top:3.5rem;
+}
+.experience h1 span{
+    color:olive;
+}
+.experience p{
+    text-indent:5rem;
+}
+.about .para p{
+    text-indent:5rem;
+}
+
+.about .para h1{
+    text-align:center;
+    font-weight:600;
+    font-size:1.8rem;
+    border-bottom:.15rem solid(218,218,140);
+    margin: top 3.5rem;
+}
+.about .para h1 span{
+    color:olive;
+}
+.about .para h2{
+    color:olive;
+    font-size:1.65rem;
+}
+.about .navbar ul li a:hover{
+    color:rgb(147, 91, 22);
+}
+.about .content h2{
+    color:olive;
+    font-size:1.85rem;
+}
+.about content p{
+    text-indent:5rem;
+}
+.about .content p a{
+    color:rgb(235, 141, 11);
+    font-size:4rem;
+}
+.about .content img{
+    width:25rem;
+    height:18rem;
+    margin-left:25rem;
+    border:15rem solid rgb(213, 58, 58);
+    box-shadow:2px 2px 2px 2px gery;
+}
+.content h1{
+    text-align:center;
+    font-weight:600;
+    font-size:1.8rem;
+    border-bottom:.15rem solid rgb(241,201,126);
+    margin-top:3.5rem;
+}
+.content h1 span{
+    color:olive;
+}
+.content label{
+    color:olive;
+    margin-left:29rem;
+    display:inline-block;
+}
+.contact i{
+    color:rgb(61, 49, 35);
+    font-size:1.2rem;
+}
+.contact h3{
+    margin-left:37rem;
+    margin-top:-1.5rem;
+}
+
